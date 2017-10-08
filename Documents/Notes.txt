@@ -1,0 +1,21 @@
+Banchmark: http://pinkhousesjax.com/
+Site: http://www.cvrealestate-solutions.com/
+
+3 possible purposes for going to this site:
+
+1: Selling property : Looking to sell (seller's list)
+
+2: Buy property : 
+	Clicking on house goes to availible home. (buyer's list)
+	Schedule a showing is fine.
+	See homes that have been sold and that are on the market.
+
+3: General information/interest
+	About us/ Contact info (read more/main page = opt-in for gen-mailing list)
+---- Invest
+
+
+Also need to create a coverpage for a pdf
+
+
+
