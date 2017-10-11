@@ -11,7 +11,8 @@ $theme-colors: (
   warning: #ffc107,
   danger: #dc3545,
   light: #f8f9fa,
-  dark: #343a40
+  dark: #343a40,
+	companyBlue: #0071bc
 );
 
 // Options
@@ -152,4 +153,41 @@ opacity:0.5
 
 #intro-overlay-button{
 float:right;
+}
+
+.nav-link{
+color: #a0a0a0 !important;
+}
+
+.social-media li:last-child a {
+    margin-right: -10px;
+    padding-right: 0px;
+}
+
+.nav-link:hover{
+color:  map-get($theme-colors, 'companyBlue') !important;
+}
+
+.social-media li {
+    width: 40px;
+}
+
+.social-media li:last-child {
+    margin-right: 10px;
+}
+
+#hcwh-section div div div:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+}
+
+.hcwh-icon:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+.hcwh-icon :hover +a {
+background-color:#007bff;
+color:white;
 }
