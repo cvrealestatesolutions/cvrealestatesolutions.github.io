@@ -5698,7 +5698,7 @@ body > * {
 
 #frontpage-callout {
   height: 500px;
-  background-image: url("Images/FrontpageBanner.jpg"); }
+  background-image: url("../Images/FrontpageBanner.jpg"); }
 
 #frontpage-intro {
   height: 400px;
@@ -5737,6 +5737,9 @@ body > * {
   padding-right: 0px; }
 
 .nav-link:hover {
+  color: #0071bc !important; }
+
+.active {
   color: #0071bc !important; }
 
 .social-media li {

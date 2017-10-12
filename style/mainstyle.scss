@@ -118,7 +118,7 @@ height:200px
 }
 #frontpage-callout{
 height:500px;
-background-image: url("Images/FrontpageBanner.jpg");
+background-image: url("../Images/FrontpageBanner.jpg");
 }
 
 #frontpage-intro{
@@ -167,7 +167,9 @@ color: #a0a0a0 !important;
 .nav-link:hover{
 color:  map-get($theme-colors, 'companyBlue') !important;
 }
-
+.active{
+color:  map-get($theme-colors, 'companyBlue') !important;
+}
 .social-media li {
     width: 40px;
 }
