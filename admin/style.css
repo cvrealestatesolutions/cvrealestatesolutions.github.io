@@ -18,3 +18,18 @@ h2 {
   font-size: 18px;
   font-weight: normal;
 }
+.sqft:after{
+content: " sqft"
+}
+
+.year:before {
+    content: "Built in: ";
+}
+
+.pfix {
+  display:inline;
+  font-family: 'Open Sans', Helvetica, Arial;
+  font-weight:600;
+  padding: 0px 5px 0px 3px
+}
+

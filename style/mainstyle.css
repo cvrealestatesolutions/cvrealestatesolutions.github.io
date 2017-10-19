@@ -5760,3 +5760,6 @@ body > * {
 .hcwh-icon :hover + a {
   background-color: #007bff;
   color: white; }
+
+.dollar:before {
+  content: "$"; }

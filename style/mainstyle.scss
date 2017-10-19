@@ -193,3 +193,6 @@ color:  map-get($theme-colors, 'companyBlue') !important;
 background-color:#007bff;
 color:white;
 }
+.dollar:before {
+    content: "$";
+}
